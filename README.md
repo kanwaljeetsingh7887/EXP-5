@@ -171,7 +171,5 @@ int main() {
 ## Output: 
 ![image](https://github.com/user-attachments/assets/94213bcf-8958-4d37-b201-57aad77d0cd8)
 
-
-
-Conclusion:
-Bitwise Operators are essential for tasks such as implementing efficient algorithms, controlling hardware etc. We learned how to use Bitwise Operators and implement them efficiently in C++ programming.# EXP-5
+## Conclusion:
+I learnt about the different decision making statements of C++ and performed tasks based on those conditions.
